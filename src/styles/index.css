@@ -1,3 +1,42 @@
+body{
+    position: relative;
+    background-image: url("https://png.pngtree.com/background/20230606/original/pngtree-traffic-light-sitting-on-top-of-a-street-during-the-evening-picture-image_2882506.jpg");
+}
+
+.headlight{
+    background: black;
+    padding:10px;
+    display:inline-block;
+    margin: 50px 60px 50px 440px;
+    border-radius: 50px;
+    width: 180px;
+    height: 500px;
+}
+.lights{
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+    margin:5px;
+    
+}
+.red{
+    background: red;
+}
+.yellow{
+    background: yellow;
+}
+.green{
+    background: green;
+}
+.glow{
+    box-shadow: 0 0 20px 5px  rgba(248,251,62,0.5);
+}
+h2{
+    font-size: 100px;
+    color:white;
+    text-align: center;
+}
+
 
 /* 
 
